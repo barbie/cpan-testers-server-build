@@ -11,7 +11,7 @@ die "OS unsupported" if( $^O eq 'MSWin32' );
 WriteMakefile(
     AUTHOR              => 'Barbie <barbie@cpan.org>',
     NAME                => 'cpan-testers-server-build',
-    VERSION             => '1.00',
+    VERSION             => '1.01',
     ABSTRACT            => 'How to build the CPAN Testers server',
     NO_META             => 1,
     PREREQ_PM => {

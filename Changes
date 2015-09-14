@@ -1,6 +1,9 @@
 Revision history for cpan-testers-server-build
 ==============================================
 
+1.01    2015-09-14
+        - Fixed MD syntax.
+
 1.00    2015-09-14
         - First public release
 
