@@ -1,0 +1,14 @@
+# Debian Installs
+apt-get install atop gcc htop locate ntp ntpdate screen ssh
+apt-get install apache2 bzip2 imagemagick mysql-client mysql-server perlmagick  
+apt-get install libarchive-extract-perl libarchive-zip-perl libcgi-pm-perl libclone-perl libconfig-inifiles-perl libcurses-perl libdata-formvalidator-perl libdata-phrasebook-perl libdbd-mysql-perl libdbi-perl libdigest-md5-perl libemail-address-perl libfile-path-perl libfile-spec-perl libgd-perl libgetopt-argvfile-perl libgetopt-long-perl libhtml-tagcloud-perl libimage-size-perl libjson-xs-perl liblog-loglite-perl libmime-lite-perl libmime-types-perl libmodule-pluggable-perl libncurses5-dev libnumber-format-perl libregexp-assemble-perl libregexp-common-perl libsort-versions-perl libspreadsheet-writeexcel-perl libtemplate-perl libtext-format-perl libtime-local-perl libwww-mechanize-perl libxml-atom-perl libxml-rss-perl libyaml-perl libdata-pageset-perl
+
+# CPAN Installs
+cpan CPAN
+cpan Carp Cwd Data::Dumper File::Basename IO::File
+cpan Net::Domain File::Rsync::Mirror::Recent BackPAN::Index::Create
+cpan CGI::Cookie CPAN::Testers::Common::Article CPAN::Testers::Common::DBUtils CPAN::Testers::Common::Utils CPAN::Testers::Fact::LegacyReport CPAN::Testers::Fact::TestSummary CPAN::Testers::Metabase::AWS Crypt::RandPasswd Data::FlexSerializer Data::FormValidator::Constraints::Upload Data::FormValidator::Constraints::Words Data::FormValidator::Filters::Demoroniser Data::Phrasebook::Loader:Ini Encode::ZapCP1252 File::Copy GD::Graph::lines HTML::Entities Metabase Metabase::Resource MIME::Lite::TT::HTML OpenThought Parse::CPAN::Authors Sereal Session::Token Template::Plugin::Comma Text::Wrap XML::Atom::Feed XML::Atom::Entry YAML::XS CPAN::Testers::Metabase::AWS
+cpan Test::Verbose
+
+# Extras
+# mtop - installation instructions: http://www.shkodenko.com/mtop-utility-installation-on-debian-7/

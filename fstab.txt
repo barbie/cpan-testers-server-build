@@ -1,0 +1,5 @@
+/media/web/BACKPAN /home/ftp/BACKPAN bind defaults,bind 0 0
+/media/web/CPAN    /home/ftp/CPAN    bind defaults,bind 0 0
+/media/web/www     /var/www          bind defaults,bind 0 0
+
+/media/backend/cpantesters     /opt/projects/cpantesters  bind defaults,bind 0 0
